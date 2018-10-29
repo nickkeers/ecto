@@ -2,7 +2,7 @@
 
 ---
 
-[![Build Status](https://travis-ci.org/elixir-ecto/ecto.svg?branch=master)](https://travis-ci.org/elixir-ecto/ecto)
+An experiment to replace MariaEx with MysqlEx per the results of this article: http://tjheeta.github.io/2015/05/31/elixir-and-erlang-mysql-drivers/
 
 Ecto is a toolkit for data mapping and language integrated query for Elixir. Here is an example:
 
